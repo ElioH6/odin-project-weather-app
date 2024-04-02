@@ -1,4 +1,4 @@
-import APIKEY from './config.js';
+import {APIKEY} from './config.js';
 
 $('document').ready(function () {
     $('.search-box button').click(function (event) {
